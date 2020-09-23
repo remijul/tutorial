@@ -21,7 +21,7 @@ The basics as a good starting point !
 
 
 ## C. Data science tutorials
-
+1. Data wrangling : getting started with Pandas
 
 
 ## D. Data science use cases
