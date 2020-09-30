@@ -21,7 +21,7 @@ The basics as a good starting point !
 
 
 ## C. Data science tutorials
-1. Data wrangling : getting started with Pandas
+1. [Data wrangling : getting started with Pandas](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
 
 
 ## D. Data science use cases
