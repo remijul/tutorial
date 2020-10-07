@@ -21,7 +21,13 @@ The basics as a good starting point !
 
 
 ## C. Data science tutorials
-1. [Data wrangling : getting started with Pandas](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
+1. Data wrangling
+- [Getting started with Pandas - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
+- [Getting started with Pandas - Part 2]
+
+2. Cartography :
+- [Cartography with Leaflet & Folium - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
+- [Cartography with Leaflet & Folium - Part 2]
 
 
 ## D. Data science use cases
