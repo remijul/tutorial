@@ -26,7 +26,7 @@ The basics as a good starting point !
 - [Getting started with Pandas - Part 2]
 
 2. Cartography :
-- [Cartography with Leaflet & Folium - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
+- [Cartography with Leaflet & Folium - Part 1](https://github.com/remijul/tutorial/blob/master/Cartography_with_Leaflet_%26_Folium_part1.ipynb)
 - [Cartography with Leaflet & Folium - Part 2]
 
 
