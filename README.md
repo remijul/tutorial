@@ -25,7 +25,11 @@ The basics as a good starting point !
 - [Getting started with Pandas - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
 - [Getting started with Pandas - Part 2]
 
-2. Cartography :
+2. Graphics & Dataviz
+- [Getting started with Seaborn - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Seaborn_Part_1.ipynb)
+- [Getting started with Seaborn - Part 2]
+
+3. Cartography :
 - [Cartography with Leaflet & Folium - Part 1](https://github.com/remijul/tutorial/blob/master/Cartography_with_Leaflet_%26_Folium_part1.ipynb)
 - [Cartography with Leaflet & Folium - Part 2]
 
