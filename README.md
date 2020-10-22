@@ -12,12 +12,15 @@ The basics as a good starting point !
 7. [Conditions](https://github.com/remijul/tutorial/blob/master/Conditions.ipynb)
 8. [Loops](https://github.com/remijul/tutorial/blob/master/Loops.ipynb)
 9. [Functions](https://github.com/remijul/tutorial/blob/master/Functions.ipynb)
-10. [POO](https://github.com/remijul/tutorial/blob/master/La_classe_en_BD.ipynb)
-11. [Modules and packages]()
+
 
 
 ## B. Becoming expert with Python programming
-
+More advanced tutorials ...
+1. [POO](https://github.com/remijul/tutorial/blob/master/La_classe_en_BD.ipynb)
+2. [Modules and packages]()
+3. [Comprehension lists]()
+4. [The `.apply()` method from Pandas]()
 
 
 ## C. Data science tutorials
