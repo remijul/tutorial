@@ -19,8 +19,9 @@ The basics as a good starting point !
 More advanced tutorials ...
 1. [POO](https://github.com/remijul/tutorial/blob/master/La_classe_en_BD.ipynb)
 2. [Modules and packages]()
-3. [Comprehension lists]()
-4. [The `.apply()` method from Pandas]()
+3. [Lambda functions]()
+4. [Comprehension lists]()
+5. [The `.apply()` method from Pandas]()
 
 
 ## C. Data science tutorials
