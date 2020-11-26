@@ -29,7 +29,10 @@ More advanced tutorials ...
 - [Getting started with Pandas - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
 - [Getting started with Pandas - Part 2]
 
-2. Graphics & Dataviz
+2. Web scraping
+- [Getting started with Beautiful Soup - Part 1](https://github.com/remijul/tutorial/blob/master/Web_scraping_Getting_started_with_BeautifulSoup_Part_1.ipynb)
+
+3. Graphics & Dataviz
 - [Getting started with Seaborn - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Seaborn_Part_1.ipynb)
 - [Getting started with Seaborn - Part 2]
 
