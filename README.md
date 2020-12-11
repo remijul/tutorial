@@ -27,7 +27,7 @@ More advanced tutorials ...
 ## C. Data science tutorials
 1. Data wrangling
 - [Getting started with Pandas - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
-- [Getting started with Pandas - Part 2]
+- [Getting started with Pandas - Part 2](https://github.com/remijul/tutorial/blob/master/Web_scraping_Getting_started_with_BeautifulSoup_Part_2.ipynb)
 
 2. Web scraping
 - [Getting started with Beautiful Soup - Part 1](https://github.com/remijul/tutorial/blob/master/Web_scraping_Getting_started_with_BeautifulSoup_Part_1.ipynb)
