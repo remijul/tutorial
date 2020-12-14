@@ -22,6 +22,7 @@ More advanced tutorials ...
 3. [Lambda functions](https://github.com/remijul/tutorial/blob/master/Lambda_functions.ipynb)
 4. [Comprehension lists](https://github.com/remijul/tutorial/blob/master/Comprehension_lists.ipynb)
 5. [The `.apply()` method from Pandas]()
+6. [Debug your code](https://github.com/remijul/tutorial/blob/master/Debug_your_code.ipynb)
 
 
 ## C. Data science tutorials
