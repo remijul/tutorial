@@ -38,9 +38,13 @@ More advanced tutorials ...
 - [Getting started with Seaborn - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Seaborn_Part_1.ipynb)
 - [Getting started with Seaborn - Part 2]
 
-3. Cartography :
+4. Cartography :
 - [Cartography with Leaflet & Folium - Part 1](https://github.com/remijul/tutorial/blob/master/Cartography_with_Leaflet_%26_Folium_part1.ipynb)
 - [Cartography with Leaflet & Folium - Part 2]
+
+5. Text mining & NLP :
+- [Text mining & NLP - Part 1](https://github.com/remijul/tutorial/blob/master/Text_mining_%26_NLP_Part_1.ipynb)
+- [Text mining & NLP - Part 2 : Sentiment Analysis with VADER (french module)](https://github.com/remijul/tutorial/blob/master/Text_mining_%26_NLP_Part_2.ipynb)
 
 
 ## D. Data science use cases
