@@ -48,4 +48,4 @@ More advanced tutorials ...
 
 
 ## D. Data science use cases
-
+1. [Data analysis on diamonds dataset](https://github.com/remijul/tutorial/blob/master/La_classe_en_BD.ipynb)
