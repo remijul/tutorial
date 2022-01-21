@@ -52,9 +52,10 @@ More advanced tutorials ...
 2. [Supervised ML - Classification of Iris](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Iris_dataset_part_1.ipynb)
 
 
-## E. Machine learning tutorials
+## E. Machine learning tutorials and exercices
 1. [Data Preprocessing for machine learning](https://github.com/remijul/tutorial/blob/master/Preprocessing.ipynb)
 2. [Pipeline for machine learning](https://github.com/remijul/tutorial/blob/master/Pipeline.ipynb)
+2bis. [Exercice - Pipeline for machine learning](https://github.com/remijul/tutorial/blob/master/Pipeline_Exo.ipynb)
 
 ## F. Exercices
 1. [Supervised ML - Classification of heart desease](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Heart_desease_dataset_part_1.ipynb)
