@@ -55,6 +55,8 @@ More advanced tutorials ...
 ## E. Machine learning tutorials and exercices
 1. [Data Preprocessing for machine learning](https://github.com/remijul/tutorial/blob/master/Preprocessing.ipynb) && [Exercice - Preprocessing for machine learning](https://github.com/remijul/tutorial/blob/master/Preprocessing_Exo.ipynb)
 2. [Pipeline for machine learning](https://github.com/remijul/tutorial/blob/master/Pipeline.ipynb) && [Exercice - Pipeline for machine learning](https://github.com/remijul/tutorial/blob/master/Pipeline_Exo.ipynb)
+3. [Cross Validation & Grid Search for machine learning](https://github.com/remijul/tutorial/blob/master/CrossValidation_%26_GridSearch.ipynb)
+
 
 ## F. Exercices
 1. [Supervised ML - Classification of heart desease](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Heart_desease_dataset_part_1.ipynb)
