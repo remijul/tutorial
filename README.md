@@ -56,7 +56,11 @@ More advanced tutorials ...
 1. [Data Preprocessing for machine learning](https://github.com/remijul/tutorial/blob/master/Preprocessing.ipynb) && [Exercice - Preprocessing for machine learning](https://github.com/remijul/tutorial/blob/master/Preprocessing_Exo.ipynb)
 2. [Pipeline for machine learning](https://github.com/remijul/tutorial/blob/master/Pipeline.ipynb) && [Exercice - Pipeline for machine learning](https://github.com/remijul/tutorial/blob/master/Pipeline_Exo.ipynb)
 3. [Cross Validation & Grid Search for machine learning](https://github.com/remijul/tutorial/blob/master/CrossValidation_%26_GridSearch.ipynb)
-4. [Metrics for classification - Part 1 2-class](https://github.com/remijul/tutorial/blob/master/Metrics_for_classification_Part_1_2_class_classification.ipynb) && [Metrics for classification - Part 2 n-class]
+4. [Hyper-parameters tuning]()
+5. [Metrics for classification - Part 1 2-class](https://github.com/remijul/tutorial/blob/master/Metrics_for_classification_Part_1_2_class_classification.ipynb) && [Metrics for classification - Part 2 n-class]
+6. [Metrics for regression]()
+7. [Feature importance]()
+8. [Comparison of ML models]()
 
 
 ## F. Exercices
