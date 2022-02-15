@@ -60,7 +60,10 @@ More advanced tutorials ...
 5. [Metrics for classification - Part 1 2-class](https://github.com/remijul/tutorial/blob/master/Metrics_for_classification_Part_1_2_class_classification.ipynb) && [Metrics for classification - Part 2 n-class]
 6. [Metrics for regression]
 7. [Feature importance]
-8. [Comparison of ML models]
+8. Models for Regression :
+- [Simple & Multiple Linear Regression](https://github.com/remijul/tutorial/blob/master/Simple_and_Multivariate_Linear_Regression_Supervised_Learning.ipynb)
+- [Ridge, Lasso & Elastic-Net Regression]
+9. [Comparison of ML models]
 
 
 ## F. Exercices
