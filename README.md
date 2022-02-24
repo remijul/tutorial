@@ -63,6 +63,7 @@ More advanced tutorials ...
 8. Models for Regression :
 - [Simple & Multiple Linear Regression](https://github.com/remijul/tutorial/blob/master/Simple_and_Multivariate_Linear_Regression_Supervised_Learning.ipynb)
 - [Ridge, Lasso & Elastic-Net Regression]
+- [KNN regression](https://github.com/remijul/tutorial/blob/master/KNN_Regression_Supervised_Learning.ipynb)
 9. [Comparison of ML models]
 
 
