@@ -65,15 +65,11 @@ More advanced tutorials ...
 - [Simple & Multiple Linear Regression](https://github.com/remijul/tutorial/blob/master/Simple_and_Multivariate_Linear_Regression_Supervised_Learning.ipynb)
 - [Ridge, Lasso & Elastic-Net Regression]
 - [KNN regression](https://github.com/remijul/tutorial/blob/master/KNN_Regression_Supervised_Learning.ipynb)
-
 8.2 Models for Classification :
--
-
 9. Unsupervised learning :
 - [K-means - Clustering on Iris dataset](https://github.com/remijul/tutorial/blob/master/K_means_clustering_on_Iris_dataset.ipynb)
 
 10. [Comparison of ML models]
--
 
 ## F. Exercices
 1. [Supervised ML - Classification of heart desease](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Heart_desease_dataset_part_1.ipynb)
