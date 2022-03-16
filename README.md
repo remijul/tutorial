@@ -61,13 +61,19 @@ More advanced tutorials ...
 6. [Metrics for regression]
 7. [Feature importance]
 8. Supervised learning
+- []()
+
 8.1 Models for Regression :
 - [Simple & Multiple Linear Regression](https://github.com/remijul/tutorial/blob/master/Simple_and_Multivariate_Linear_Regression_Supervised_Learning.ipynb)
 - [Ridge, Lasso & Elastic-Net Regression]
 - [KNN regression](https://github.com/remijul/tutorial/blob/master/KNN_Regression_Supervised_Learning.ipynb)
+
 8.2 Models for Classification :
+- []()
+
 9. Unsupervised learning :
-- [K-means - Clustering on Iris dataset](https://github.com/remijul/tutorial/blob/master/K_means_clustering_on_Iris_dataset.ipynb)
+- [K-means Clustering on Iris dataset](https://github.com/remijul/tutorial/blob/master/K_means_clustering_on_Iris_dataset.ipynb)
+- [Hierarchical Clustering on Fromages dataset](https://github.com/remijul/tutorial/blob/master/Hierarchical_clustering_on_Fromages_dataset.ipynb)
 
 10. [Comparison of ML models]
 
