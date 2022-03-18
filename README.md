@@ -50,6 +50,7 @@ More advanced tutorials ...
 ## D. Data science use cases
 1. [Data analysis on diamonds dataset](https://github.com/remijul/tutorial/blob/master/Data_analysis_on_Diamonds.ipynb)
 2. [Supervised ML - Classification of Iris](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Iris_dataset_part_1.ipynb)
+3. [Supervised ML - Classification of Penguins - FR](https://github.com/remijul/tutorial/blob/master/Supervised_ML_Classification_of_Penguins.ipynb)
 
 
 ## E. Machine learning tutorials and exercices
