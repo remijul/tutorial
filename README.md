@@ -79,3 +79,6 @@ More advanced tutorials ...
 
 ## F. Exercices
 1. [Supervised ML - Classification of heart desease](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Heart_desease_dataset_part_1.ipynb)
+
+## G. Teaching - Evaluation
+1. [Dev IA 2021 - Supervised ML n°1](https://github.com/remijul/tutorial/blob/master/Evaluation_1.ipynb)
