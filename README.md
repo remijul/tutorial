@@ -17,11 +17,11 @@ The basics as a good starting point !
 
 ## B. Becoming expert with Python programming
 More advanced tutorials ...
-1. [POO](https://github.com/remijul/tutorial/blob/master/La_classe_en_BD.ipynb)
-2. [Modules and packages]()
-3. [Lambda functions](https://github.com/remijul/tutorial/blob/master/Lambda_functions.ipynb)
-4. [Comprehension lists](https://github.com/remijul/tutorial/blob/master/Comprehension_lists.ipynb)
-5. [The `.apply()` method from Pandas]()
+1. Modules and packages()
+2. [Lambda functions](https://github.com/remijul/tutorial/blob/master/Lambda_functions.ipynb)
+3. [Comprehension lists](https://github.com/remijul/tutorial/blob/master/Comprehension_lists.ipynb)
+4. [POO](https://github.com/remijul/tutorial/blob/master/La_classe_en_BD.ipynb)
+5. The `.apply()` method from Pandas()
 6. [Debug your code](https://github.com/remijul/tutorial/blob/master/Debug_your_code.ipynb)
 
 
