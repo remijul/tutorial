@@ -29,7 +29,7 @@ More advanced tutorials ...
 1. Data wrangling
 - [Getting started with Pandas - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Pandas.ipynb)
 - [Getting started with Pandas - Part 2]()
-- [Exercice - Data exploration on Spotify playlist](https://github.com/remijul/tutorial/blob/master/Exercice_data_exploration_Spotify.ipynb]
+- [Exercice - Data exploration on Spotify playlist](https://github.com/remijul/tutorial/blob/master/Exercice_data_exploration_Spotify.ipynb)
 
 2. Web scraping
 - [Getting started with Beautiful Soup - Part 1](https://github.com/remijul/tutorial/blob/master/Web_scraping_Getting_started_with_BeautifulSoup_Part_1.ipynb)
