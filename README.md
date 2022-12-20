@@ -13,6 +13,9 @@ The basics as a good starting point !
 8. [Loops](https://github.com/remijul/tutorial/blob/master/Loops.ipynb)
 9. [Functions](https://github.com/remijul/tutorial/blob/master/Functions.ipynb)
 
+Exercices :
+1. [Python programming](https://github.com/remijul/tutorial/blob/master/Evaluation_introduction_Python.ipynb)
+
 
 
 ## B. Becoming expert with Python programming
