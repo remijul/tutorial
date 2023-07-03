@@ -57,7 +57,7 @@ More advanced tutorials ...
 ### Machine Learning
 1. [Supervised ML - Classification of Iris](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Iris_dataset_part_1.ipynb)
 2. [Supervised ML - Classification of Penguins - FR](https://github.com/remijul/tutorial/blob/master/Supervised_ML_Classification_of_Penguins.ipynb)
-1. [Supervised ML - Classification of Airline Passenegr Satisfaction - Sentiment analysis](https://github.com/remijul/tutorial/blob/master/Supervised_ML_Classification_Sentiment_Analysis.ipynb)
+1. [Supervised ML - Classification of Airline Passenger Satisfaction - Sentiment analysis](https://github.com/remijul/tutorial/blob/master/Supervised_ML_Classification_Sentiment_Analysis.ipynb)
 
 
 
