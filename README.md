@@ -93,5 +93,4 @@ More advanced tutorials ...
 
 ## G. Teaching - Evaluation
 1. [Dev IA 2021 - Supervised ML n°1](https://github.com/remijul/tutorial/blob/master/Evaluation_1.ipynb)
-2. <!-- This is commented out. -->
-3. ccvv
+2. <!-- [Dev IA - Challenge SQL](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL.ipynb) -->
