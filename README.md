@@ -93,4 +93,5 @@ More advanced tutorials ...
 
 ## G. Teaching - Evaluation
 1. [Dev IA 2021 - Supervised ML n°1](https://github.com/remijul/tutorial/blob/master/Evaluation_1.ipynb)
-2. [Dev IA - Challenge SQL](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL.ipynb) & [Correction]()
+2. [Dev IA - Challenge SQL](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL.ipynb) & [Correction](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL_correction.ipynb)
+3. [Dev IA - Challenge ML](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_ML.ipynb) & [Correction](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_ML_correction.ipynb)
