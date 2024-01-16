@@ -14,8 +14,10 @@ The basics as a good starting point !
 9. [Functions](https://github.com/remijul/tutorial/blob/master/Functions.ipynb)
 
 Exercices :
+<!-- Hidden section
 1. [Python programming](https://github.com/remijul/tutorial/blob/master/Evaluation_introduction_Python.ipynb)
-<!-- This is commented out. and [Correction - Python programming](https://github.com/remijul/tutorial/blob/master/Evaluation_introduction_Python_correction.ipynb)-->
+and [Correction - Python programming](https://github.com/remijul/tutorial/blob/master/Evaluation_introduction_Python_correction.ipynb)
+-->
 
 ## B. Becoming expert with Python programming
 More advanced tutorials ...
