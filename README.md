@@ -92,9 +92,16 @@ More advanced tutorials ...
 10. [Comparison of ML models]
 
 ## F. Exercices
+<!-- Hidden section
 1. [Supervised ML - Classification of heart desease](https://github.com/remijul/tutorial/blob/master/Supervised_learning_Classification_with_KNN_Heart_desease_dataset_part_1.ipynb)
-
+-->
 ## G. Teaching - Evaluation
+<!-- Hidden section
 1. [Dev IA 2021 - Supervised ML n°1](https://github.com/remijul/tutorial/blob/master/Evaluation_1.ipynb)
-2. [Dev IA - Challenge SQL](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL.ipynb) & [Correction](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL_correction.ipynb)
+-->
+<!-- Hidden section
+2. [Dev IA - Challenge SQL](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL.ipynb) & [Correction](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_SQL_correction.ipynb
+-->
+<!-- Hidden section
 3. [Dev IA - Challenge ML](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_ML.ipynb) & [Correction](https://github.com/remijul/tutorial/blob/master/Dev_IA_Challenge_ML_correction.ipynb)
+-->
