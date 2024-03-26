@@ -38,6 +38,7 @@ More advanced tutorials ...
 2. Web scraping
 - [Getting started with Beautiful Soup - Part 1](https://github.com/remijul/tutorial/blob/master/Web_scraping_Getting_started_with_BeautifulSoup_Part_1.ipynb)
 - [Getting started with Beautiful Soup - Part 2](https://github.com/remijul/tutorial/blob/master/Web_scraping_Getting_started_with_BeautifulSoup_Part_2.ipynb)
+- [Atelier Dev IA - Ville de Tours](https://github.com/remijul/tutorial/blob/master/Web_scraping_Atelier_Dev_IA.ipynb)
 
 3. Graphics & Dataviz
 - [Getting started with Seaborn - Part 1](https://github.com/remijul/tutorial/blob/master/Getting_started_with_Seaborn_Part_1.ipynb)
