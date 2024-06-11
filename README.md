@@ -86,6 +86,7 @@ More advanced tutorials ...
 
 9. Unsupervised learning :
 - [Clustering Part 1 - K-means on Iris dataset](https://github.com/remijul/tutorial/blob/master/Clustering_Part_1_K_means_on_Iris_dataset.ipynb)
+- [Clustering Part 1 - K-means and PCA on simulated data](https://github.com/remijul/tutorial/blob/master/Clustering_Part_1_K_means_and_PCA_on_simulated_data.ipynb)
 - [Clustering Part 2 - Agglomerative Clustering on Fromages dataset](https://github.com/remijul/tutorial/blob/master/Clustering_Part_2_Agglomerative_clustering_on_Fromages_dataset.ipynb)
 - [Clustering Part 3 - Clustering on USA Arrests dataset](https://github.com/remijul/tutorial/blob/master/Clustering_Part_3_USA_Arrests_dataset.ipynb)
 - [PCA Part 1 - USA Arrests dataset](https://github.com/remijul/tutorial/blob/master/PCA_Part_1_USA_Arrests_dataset.ipynb)
